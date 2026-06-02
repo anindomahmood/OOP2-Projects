@@ -1,0 +1,44 @@
+E:\C# Project\HRMS\HRMS\bin\Debug\HRMS.exe.config
+E:\C# Project\HRMS\HRMS\bin\Debug\HRMS.exe
+E:\C# Project\HRMS\HRMS\bin\Debug\HRMS.pdb
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.exe.config
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Department.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.DESIGNATION.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Education.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Home.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Information.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Login.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Payroll.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.RECORDS.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.Salary.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.WorkExperience.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.cache
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.exe
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.pdb
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.UserInterface.resources
+E:\C# Project\HRMS\HRMS\obj\Debug\HRMS.PaySlip.resources
+E:\Academic\C-Sharp\HRMS\HRMS\bin\Debug\HRMS.exe.config
+E:\Academic\C-Sharp\HRMS\HRMS\bin\Debug\HRMS.exe
+E:\Academic\C-Sharp\HRMS\HRMS\bin\Debug\HRMS.pdb
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.csproj.AssemblyReference.cache
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.exe.config
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Department.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.DESIGNATION.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Education.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Home.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Information.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Login.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Payroll.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.PaySlip.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Properties.Resources.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.RECORDS.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.Salary.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.UserInterface.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.WorkExperience.resources
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.csproj.GenerateResource.cache
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.csproj.CoreCompileInputs.cache
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.exe
+E:\Academic\C-Sharp\HRMS\HRMS\obj\Debug\HRMS.pdb
